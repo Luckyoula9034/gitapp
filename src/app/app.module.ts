@@ -11,12 +11,12 @@ import { HttpClient }from '@angular/common/http';
   declarations: [
     AppComponent,
     ProfileComponent,
-     
+    
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-     
+    
   ],
   providers: [ProfileService ],
   bootstrap: [AppComponent]
